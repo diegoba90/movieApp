@@ -10,3 +10,5 @@ Things learned:
 6. How to create classes
 7. How to design and create tables
 8. How to create a launch screen.
+
+To launch application, open up XCode and import all the files into your project. This inclues the assets files, pictues and .json files.
